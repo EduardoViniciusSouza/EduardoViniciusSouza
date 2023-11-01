@@ -18,20 +18,28 @@
 ## 
 
 <div style="display: inline_block"><br>
+  
 <a href = "https://devicon.dev/">
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  
 <a href = "https://devicon.dev/">
 <img align="center" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
 <a href = "https://devicon.dev/">
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  
 <a href = "https://devicon.dev/">
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
 <a href = "https://devicon.dev/">
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  
 <a href = "https://devicon.dev/">
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  
 <a href = "https://devicon.dev/">
-<img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />     
+<img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />   
+  
 </div>
 
 ##
