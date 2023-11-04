@@ -43,3 +43,7 @@
 </div>
 
 ##
+
+![snake gif](https://github.com/EduardoViniciusSouza/EduardoViniciusSouza/blob/output/github-contribution-grid-snake.svg)
+
+##
