@@ -8,10 +8,11 @@
 
 <div>
 <a href= "https://github.com/EduardoViniciusSouza">
-<img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=EduardoViniciusSouza&show_icons=true&theme=radical"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoViniciusSouza&theme=radical&mode=weekly" />
 </a>
 <a href= "https://github.com/EduardoViniciusSouza">
-<img heigth="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoViniciusSouza&layout=compact&langs_count=168theme=radical"/>
+<img width=40% align="center" src="https://git-hub-stats-mocha.vercel.app
+/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/>
 </a>    
 </div>
 
@@ -42,4 +43,4 @@
   
 </div>
 
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
