@@ -1,11 +1,3 @@
-### Hi there 👋, I`m a Java enjoeir 
-- 🔭 I’m currently working on: IFG - EMBRAPII
-- 🌱 I’m currently learning: Java Spring, AWS, SQL
-- 📫 How to reach me: eduardovinicius.macielsouza@gmail.com
-- 🤔 I’m looking for help with: Spring, Java, SQL & BackEnd things.
-
-##
-
 <div>
 <a href= "https://github.com/EduardoViniciusSouza">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoViniciusSouza&theme=radical&mode=weekly" />
@@ -16,7 +8,15 @@
 </a>    
 </div>
 
-## 
+##
+
+### Hi there 👋, I`m a Java enjoeir 
+- 🔭 I’m currently working on: IFG - EMBRAPII
+- 🌱 I’m currently learning: Java Spring, AWS, SQL
+- 📫 How to reach me: eduardovinicius.macielsouza@gmail.com
+- 🤔 I’m looking for help with: Spring, Java, SQL & BackEnd things.
+
+##
 
 <div style="display: inline_block"><br>
   
