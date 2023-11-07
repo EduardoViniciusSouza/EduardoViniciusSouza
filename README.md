@@ -4,11 +4,19 @@
 - 📫 How to reach me: eduardovinicius.macielsouza@gmail.com
 - 🤔 I’m looking for help with: Spring, Java, SQL & BackEnd things.
 
+##
+
 <div>
+<a href= "https://github.com/EduardoViniciusSouza">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoViniciusSouza&theme=radical&mode=weekly" />
+</a>
+<a href= "https://github.com/EduardoViniciusSouza">
 <img width=40% align="center" src="https://git-hub-stats-mocha.vercel.app
-/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/> 
+/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/>
+</a>    
 </div>
+
+## 
 
 <div style="display: inline_block"><br>
   
