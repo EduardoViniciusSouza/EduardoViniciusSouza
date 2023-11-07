@@ -1,15 +1,3 @@
-<div>
-<a href= "https://github.com/EduardoViniciusSouza">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoViniciusSouza&theme=radical&mode=weekly" />
-</a>
-<a href= "https://github.com/EduardoViniciusSouza">
-<img width=40% align="center" src="https://git-hub-stats-mocha.vercel.app
-/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/>
-</a>    
-</div>
-
-##
-
 ### Hi there 👋, I`m a Java enjoeir 
 - 🔭 I’m currently working on: IFG - EMBRAPII
 - 🌱 I’m currently learning: Java Spring, AWS, SQL
@@ -17,6 +5,17 @@
 - 🤔 I’m looking for help with: Spring, Java, SQL & BackEnd things.
 
 ##
+
+<div>
+<a href= "https://github.com/EduardoViniciusSouza">
+<img heigth="180em" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoViniciusSouza&theme=radical&mode=weekly" />
+</a>
+<a href= "https://github.com/EduardoViniciusSouza">
+<img heigth="180em" src="https://git-hub-stats-mocha.vercel.app/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/>
+</a>    
+</div>
+
+## 
 
 <div style="display: inline_block"><br>
   
@@ -42,5 +41,7 @@
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />   
   
 </div>
+
+##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
