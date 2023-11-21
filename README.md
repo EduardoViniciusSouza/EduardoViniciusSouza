@@ -8,10 +8,6 @@
 
 <div>
 <a href= "https://github.com/EduardoViniciusSouza">
-<img heigth="180em" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoViniciusSouza&theme=radical&mode=weekly" />
-</a>
-  
-<a href= "https://github.com/EduardoViniciusSouza">
 <img heigth="180em" src="https://git-hub-stats-mocha.vercel.app/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/>
 </a>    
 </div>
