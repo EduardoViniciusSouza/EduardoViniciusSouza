@@ -1,8 +1,8 @@
-### Hi there 👋, I`m a Java enjoeir 
-- 🔭 I’m currently working on: IFG 
-- 🌱 I’m currently learning: Java Spring, AWS, SQL
+### Hi there 👋, I`m a Java and TypeScript Developer!
+- 🔭 I’m currently working on: HAWK APPS
+- 🌱 I’m currently learning: Java Spring, AWS, SQL, TS
 - 📫 How to reach me: eduardovinicius.macielsouza@gmail.com
-- 🤔 I’m looking for help with: Spring, Java, SQL & BackEnd things.
+- 🤔 I’m looking for help with: Spring, Java, SQL & TS.
 
 ##
 
