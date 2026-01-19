@@ -3,15 +3,7 @@
 - 🌱 I’m currently learning: Java Spring, AWS, SQL, TS
 - 📫 How to reach me: eduardovinicius.macielsouza@gmail.com
 - 🤔 I’m looking for help with: Spring, Java, SQL & TS.
-
-##
-
-<div>
-<a href= "https://github.com/EduardoViniciusSouza">
-<img heigth="180em" src="https://git-hub-stats-mocha.vercel.app/api/top-langs/?username=EduardoViniciusSouza&show_icons=true&theme=radical&layout=compact"/>
-</a>    
-</div>
-
+  
 ## 
 
 <div style="display: inline_block"><br>
